@@ -3,6 +3,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ticker | nrml_price| freq|
 |:------|----------:|----:|
 |AFMD   |        100|   23|
+|MNMD   |        100|    1|
 |QURE   |        100|    1|
 |SRRA   |        100|    1|
 |ABUS   |        100|    8|
@@ -17,7 +18,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ADMA   |        100|    1|
 |AFIB   |        100|    3|
 |AGE    |        100|    1|
-|AGEN   |        100|    2|
 |ALDX   |        100|    2|
 |ALPN   |        100|    1|
 |ALZN   |        100|    1|
@@ -68,7 +68,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CANF   |        100|    2|
 |CAPR   |        100|    2|
 |CCXI   |        100|    1|
-|CDAK   |        100|    1|
 |CELZ   |        100|    1|
 |CFRX   |        100|    2|
 |CKPT   |        100|    9|
@@ -86,6 +85,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRDL   |        100|    2|
 |CRIS   |        100|   15|
 |CRMD   |        100|    1|
+|CRTX   |        100|    1|
 |CRVS   |        100|    3|
 |CSII   |        100|    1|
 |CTMX   |        100|    1|
@@ -148,7 +148,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KURA   |        100|    1|
 |KZIA   |        100|    1|
 |KZR    |        100|    1|
-|LBPS   |        100|    1|
 |LCTX   |        100|    1|
 |LGVN   |        100|    1|
 |LIFE   |        100|    2|
@@ -182,7 +181,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |NSCIF  |        100|    1|
 |NUWE   |        100|    1|
 |NVNO   |        100|    1|
-|OBSV   |        100|    1|
 |OCUL   |        100|    8|
 |OCUP   |        100|    3|
 |ONCT   |        100|   15|
@@ -241,7 +239,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |TCRR   |        100|    1|
 |TENX   |        100|    1|
 |TFFP   |        100|    2|
-|TGTX   |        100|    9|
 |TLIS   |        100|    1|
 |UBX    |        100|    1|
 |VBIV   |        100|    2|
@@ -254,9 +251,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VKTX   |        100|    4|
 |VRNA   |        100|    2|
 |VSTM   |        100|    4|
+|VTGN   |        100|    2|
 |VTVT   |        100|    3|
 |VYGR   |        100|    2|
-|XAIR   |        100|    8|
 |XERS   |        100|   12|
 |XFOR   |        100|    3|
 |XLO    |        100|    1|
