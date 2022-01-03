@@ -4,7 +4,7 @@ library(lubridate)
 library(ggplot2)
 library(ggthemes)
 
-biopick <- read.table("Biopick2021-wk1.csv", header = TRUE)
+biopick <- read.table("Biopick2022-wk1.csv", header = TRUE)
 pickFreq <- as.data.frame(sort(table(biopick), decreasing = TRUE))
 names(pickFreq) <- c("ticker", "freq")
 batchres <- BatchGetSymbols(
@@ -62,6 +62,6 @@ myplot<-ggplot(results, aes(freq, nrml_price)) +
 ggsave(filename = "biopicks.png",plot = myplot)
 
 #poor man's rmd
-write(c("# biopick2021","Percent of original price and number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag/Biopick2021)"),file = "README.md",append=FALSE)
+write(c("# biopick2022","Percent of original price and number of entrants for each ticket for [Biopick2022](https://twitter.com/hashtag/Biopick2022)"),file = "README.md",append=FALSE)
 write(mktable,file = "README.md",append=TRUE)
 write("![retvspicks](biopicks.png?raw=true)",file = "README.md",append=TRUE)
