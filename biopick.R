@@ -9,7 +9,7 @@ pickFreq <- as.data.frame(sort(table(biopick), decreasing = TRUE))
 names(pickFreq) <- c("ticker", "freq")
 batchres <- BatchGetSymbols(
   pickFreq$ticker,
-  first.date = "2022-01-03",
+  first.date = "2021-12-31",
   last.date = Sys.Date(),
   thresh.bad.data = 0.75,
   bench.ticker = "^GSPC",
@@ -58,7 +58,7 @@ myplot<-ggplot(results, aes(freq, nrml_price)) +
     vjust = 1.2
   ) +
   scale_y_continuous(breaks = seq(0, 1000, 100)) + 
-  xlim(-5, 70)+xlab("Number of Picks")+ylab(paste(Sys.Date(),"percent of price on 01/04/2021"))
+  xlim(-5, 70)+xlab("Number of Picks")+ylab(paste(Sys.Date(),"percent of price on 01/03/2022"))
 ggsave(filename = "biopicks.png",plot = myplot)
 
 #poor man's rmd
