@@ -3,7 +3,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ticker | nrml_price| freq|
 |:------|----------:|----:|
 |AFMD   |        100|   23|
-|MNMD   |        100|    1|
 |QURE   |        100|    1|
 |SRRA   |        100|    1|
 |ABUS   |        100|    8|
@@ -87,7 +86,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRDL   |        100|    2|
 |CRIS   |        100|   15|
 |CRMD   |        100|    1|
-|CRTX   |        100|    1|
 |CRVS   |        100|    3|
 |CSII   |        100|    1|
 |CTMX   |        100|    1|
@@ -256,7 +254,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VKTX   |        100|    4|
 |VRNA   |        100|    2|
 |VSTM   |        100|    4|
-|VTGN   |        100|    2|
 |VTVT   |        100|    3|
 |VYGR   |        100|    2|
 |XAIR   |        100|    8|
