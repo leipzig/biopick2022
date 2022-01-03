@@ -10,7 +10,7 @@ names(pickFreq) <- c("ticker", "freq")
 batchres <- BatchGetSymbols(
   pickFreq$ticker,
   first.date = "2021-12-31",
-  last.date = Sys.Date(),
+  last.date = lubridate::today()+1,
   thresh.bad.data = 0.75,
   bench.ticker = "^GSPC",
   type.return = "arit",
