@@ -9,7 +9,7 @@ pickFreq <- as.data.frame(sort(table(biopick), decreasing = TRUE))
 names(pickFreq) <- c("ticker", "freq")
 batchres <- BatchGetSymbols(
   pickFreq$ticker,
-  first.date = "2021-01-04",
+  first.date = "2022-01-03",
   last.date = Sys.Date(),
   thresh.bad.data = 0.75,
   bench.ticker = "^GSPC",
