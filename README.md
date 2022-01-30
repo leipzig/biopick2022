@@ -140,7 +140,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BCLI   |   76.75000|    2|
 |ATHA   |   76.74597|    2|
 |BTAI   |   76.68470|    5|
-|DRUG   |   76.65300|    1|
+|DRUG   |   76.65615|    1|
 |CMPI   |   76.30662|    1|
 |MREO   |   76.25000|   21|
 |IMMP   |   76.21951|    4|
