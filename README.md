@@ -7,6 +7,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KPTI   |  151.47745|    5|
 |OPTN   |  148.76543|    2|
 |CAPR   |  144.70990|    2|
+|MODD   |  142.68728|    1|
 |IMUX   |  139.91641|    5|
 |SRRA   |  139.19043|    1|
 |ONCY   |  130.93525|    1|
@@ -19,7 +20,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MIRM   |  120.56426|    1|
 |ASRT   |  120.18349|    2|
 |VYGR   |  119.55720|    2|
-|MODD   |  117.71700|    1|
 |ADMA   |  113.47518|    1|
 |LVTX   |  110.72727|    4|
 |MYO    |  110.59167|    1|
@@ -154,6 +154,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VKTX   |   77.17391|    4|
 |PRTG   |   77.16682|    7|
 |AUPH   |   77.04416|   17|
+|ZIOP   |   77.03670|    5|
 |BTAI   |   77.02902|    5|
 |VTGN   |   76.92308|    2|
 |MREO   |   76.87500|   21|
