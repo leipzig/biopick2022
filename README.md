@@ -228,7 +228,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CMRX   |  34.525661|    4|
 |BDSX   |  34.404537|    1|
 |GLMD   |  33.241758|    1|
-|PROG   |  33.014354|    1|
 |IFRX   |  32.352941|    1|
 |TENX   |  31.730769|    1|
 |SIOX   |  31.705426|   11|
