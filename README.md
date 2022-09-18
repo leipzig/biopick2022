@@ -196,7 +196,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CKPT   |  39.5498392|    9|
 |CYCC   |  38.5604113|   11|
 |PHAS   |  38.3141762|    2|
-|CRVS   |  38.2738589|    3|
+|CRVS   |  38.2572614|    3|
 |SPRB   |  38.1165919|    1|
 |MGTX   |  37.9528222|    2|
 |GRTX   |  37.9084967|    1|
