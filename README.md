@@ -121,7 +121,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OCUP   |  52.546917|    3|
 |BCEL   |  52.475248|    1|
 |PPBT   |  52.442159|    1|
-|MTP    |  52.380952|    2|
+|MTP    |  52.371429|    2|
 |IMMP   |  52.134146|    4|
 |DARE   |  52.000000|    2|
 |ARDS   |  51.931331|    1|
