@@ -255,7 +255,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AYLA   |  11.750881|    4|
 |ONPH   |  11.358025|    1|
 |PRDS   |  11.301160|    1|
-|CRTX   |  10.538827|    1|
 |PRQR   |   9.288389|    3|
 |PLXP   |   8.114856|    1|
 |VBLT   |   7.868020|    2|
