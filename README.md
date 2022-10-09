@@ -6,9 +6,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OPTN   | 213.5802469|    2|
 |CAPR   | 212.9692833|    2|
 |AVEO   | 188.9125800|    1|
+|VERU   | 187.9456706|    1|
 |ADMA   | 185.1063830|    1|
 |DCPH   | 178.7103275|    1|
-|VERU   | 178.2608696|    1|
 |FENC   | 176.8181818|    2|
 |PLRX   | 162.4444444|    1|
 |MYOV   | 159.9871548|    4|
