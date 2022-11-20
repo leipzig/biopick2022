@@ -139,6 +139,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CLSD   |  44.000000|    2|
 |EVGN   |  43.902439|    1|
 |PSTV   |  43.809524|    1|
+|AUTL   |  43.545279|    9|
 |BCAB   |  43.097302|    1|
 |SELB   |  42.944785|    2|
 |ASLN   |  42.767857|    2|
