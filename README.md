@@ -87,7 +87,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |TCON   |  51.6245487|    6|
 |GBIO   |  50.9887006|    1|
 |IMGN   |  50.9433962|    1|
-|ASLN   |  50.8928571|    2|
+|ASLN   |  50.9017857|    2|
 |GLSI   |  49.8150432|    1|
 |ELDN   |  48.9795918|    3|
 |MREO   |  48.7500000|   21|
