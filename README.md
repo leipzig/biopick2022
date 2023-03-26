@@ -238,7 +238,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VLON   |   6.7224080|    4|
 |NBSE   |   6.1209964|    1|
 |DRMA   |   5.5316092|    1|
-|MTP    |   5.4285714|    2|
+|MTP    |   5.4304762|    2|
 |OTIC   |   5.3365385|    2|
 |NKTR   |   5.3293856|    3|
 |ONPH   |   4.4444444|    1|
