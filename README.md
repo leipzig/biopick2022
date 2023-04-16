@@ -226,7 +226,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VINC   |   9.6467127|    1|
 |ARDS   |   9.4420603|    1|
 |GOSS   |   9.2396102|    1|
-|MEIP   |   8.9887636|    1|
+|MEIP   |   8.9925092|    1|
 |CKPT   |   8.3922825|    9|
 |BNTC   |   8.1297713|    1|
 |TFFP   |   7.5535516|    2|
