@@ -238,7 +238,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ONPH   |   3.3530864|    1|
 |NUWE   |   2.6491228|    1|
 |ATNF   |   1.6025641|    2|
-|TENX   |   1.4899038|    1|
+|TENX   |   1.4903847|    1|
 |MTP    |   0.9476191|    2|
 |CFRX   |   0.7889734|    2|
 |CDAK   |   0.1364452|    1|
