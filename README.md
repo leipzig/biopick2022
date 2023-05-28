@@ -239,7 +239,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |TENX   |   1.5625000|    1|
 |ATNF   |   1.5128204|    2|
 |CFRX   |   0.6749049|    2|
-|MTP    |   0.6266667|    2|
 |CDAK   |   0.0987433|    1|
 |PLXP   |   0.0624220|    1|
 ![retvspicks](biopicks.png?raw=true)
