@@ -182,7 +182,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |APVO   |  19.8221088|    3|
 |AVTX   |  19.7058826|    1|
 |MDVL   |  19.6428579|    1|
-|CELZ   |  19.4524879|    1|
+|CELZ   |  19.4524874|    1|
 |ACHL   |  19.3612771|    2|
 |LPTX   |  18.9814817|   65|
 |XXII   |  18.7378645|    3|
