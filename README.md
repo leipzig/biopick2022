@@ -230,7 +230,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PIRS   |   4.3915343|   11|
 |NKTR   |   4.2931160|    3|
 |OPGN   |   4.0750000|    1|
-|NBSE   |   3.3274021|    1|
+|NBSE   |   3.2918149|    1|
 |VTGN   |   3.1965812|    2|
 |NUWE   |   2.3596492|    1|
 |AVTX   |   1.7401961|    1|
