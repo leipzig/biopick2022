@@ -176,7 +176,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |XLO    |  17.8124994|    1|
 |UBX    |  17.8082181|    1|
 |CMRX   |  17.1073103|    4|
-|BNGO   |  16.3879601|    1|
+|BNGO   |  16.2207357|    1|
 |CYCC   |  15.9383030|   11|
 |ONCT   |  15.8590316|   15|
 |SGMO   |  15.7333326|    7|
