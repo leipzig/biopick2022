@@ -229,5 +229,4 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ATNF   |   0.5769231|    2|
 |INFI   |   0.1826667|    7|
 |CFRX   |   0.1711027|    2|
-|AMRS   |   0.1293900|    2|
 ![retvspicks](biopicks.png?raw=true)
