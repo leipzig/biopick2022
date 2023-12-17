@@ -189,7 +189,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ARAV   |   6.3470317|    4|
 |PHIO   |   6.3333333|    4|
 |VINC   |   6.1923455|    1|
-|CYCC   |   6.1696655|   11|
+|CYCC   |   6.1336746|   11|
 |BCLI   |   5.9999999|    2|
 |SGMO   |   5.5999998|    7|
 |BTTX   |   5.3978491|    1|
