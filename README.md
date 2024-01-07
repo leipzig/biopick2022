@@ -146,8 +146,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GRTS   |  15.2410582|    8|
 |IKT    |  15.1927447|    2|
 |BFLY   |  15.0971597|    1|
+|ONCT   |  15.0925110|   15|
 |PSNL   |  14.9964964|    1|
-|ONCT   |  14.9779739|   15|
 |RLMD   |  14.7359069|    3|
 |CMRX   |  14.6189739|    4|
 |IMUX   |  14.5245562|    5|
@@ -198,7 +198,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PIRS   |   4.6560847|   11|
 |VCNX   |   4.6153847|    1|
 |CYCC   |   4.2673523|   11|
-|EIGR   |   4.2003852|    3|
+|EIGR   |   4.2023124|    3|
 |PTPI   |   4.0840842|    1|
 |NKTR   |   3.9970393|    3|
 |BCEL   |   3.8283828|    1|
