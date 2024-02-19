@@ -188,7 +188,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KZR    |   5.0239235|    1|
 |ATRA   |   4.8921321|    1|
 |PRTG   |   4.8741848|    7|
-|VCNX   |   4.7435897|    1|
+|VCNX   |   4.7506410|    1|
 |BTTX   |   4.7096773|    1|
 |GTBP   |   4.6666666|    1|
 |PTPI   |   4.5045046|    1|
