@@ -165,8 +165,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CMMB   |   11.2318836|    1|
 |ASLN   |   11.1607145|    2|
 |VERU   |   11.0356535|    1|
-|AFMD   |   11.0144924|   23|
 |BNTC   |   10.9788948|    1|
+|AFMD   |   10.9510869|   23|
 |UBX    |   10.7534247|    1|
 |PSTV   |   10.7301591|    1|
 |HEPA   |   10.3070175|    2|
