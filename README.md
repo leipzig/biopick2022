@@ -3,7 +3,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ticker |   nrml_price| freq|
 |:------|------------:|----:|
 |VKTX   | 1673.2609308|    4|
-|ARDX   |  790.4545006|    5|
+|ARDX   |  792.7272798|    5|
 |FUSN   |  514.3884981|    2|
 |ADMA   |  482.9787308|    1|
 |ALPN   |  466.4259689|    1|
@@ -20,7 +20,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CAPR   |  186.6894084|    2|
 |BMEA   |  165.7718214|    1|
 |MIRM   |  162.0062725|    1|
-|IBRX   |  150.0000000|    4|
+|IBRX   |  150.4934167|    4|
 |ATNM   |  149.0848535|    3|
 |SRPT   |  148.4286498|    1|
 |KURA   |  147.3571369|    1|
@@ -111,6 +111,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AMRN   |   27.0029691|    1|
 |BDSX   |   26.4650281|    1|
 |PRQR   |   25.0936321|    3|
+|ONTX   |   24.9411761|    1|
 |ADCT   |   24.2574253|    1|
 |SLS    |   24.0506328|    1|
 |IPA    |   23.8805959|    4|
@@ -160,8 +161,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AFMD   |    9.8188406|   23|
 |BCLI   |    9.4999999|    2|
 |VINC   |    8.6074586|    1|
+|CYCN   |    8.5901157|    7|
 |ACET   |    8.2904521|    2|
-|CYCN   |    8.2851742|    7|
 |FGEN   |    8.0851061|    1|
 |VIRI   |    8.0449663|    1|
 |ASLN   |    7.9839289|    2|
@@ -192,16 +193,18 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VCNX   |    2.7701467|    1|
 |ARDS   |    2.6394851|    1|
 |ALZN   |    2.5473685|    1|
-|PRTG   |    2.4976703|    7|
+|PRTG   |    2.5256292|    7|
 |SNPX   |    2.3924795|    1|
 |OPGN   |    2.3500000|    1|
 |PTPI   |    2.1420421|    1|
+|EIGR   |    1.7276815|    3|
 |LGVN   |    1.4498758|    1|
 |DRMA   |    1.2068965|    1|
 |TFFP   |    0.9154453|    2|
 |VBIV   |    0.8404558|    2|
 |NBSE   |    0.7206406|    1|
 |SEEL   |    0.6938650|    3|
+|GMDA   |    0.5708661|    7|
 |SRNE   |    0.3225806|    1|
 |AVTX   |    0.2933006|    1|
 |APVO   |    0.2856070|    3|
