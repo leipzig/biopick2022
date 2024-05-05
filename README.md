@@ -3,9 +3,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ticker |   nrml_price| freq|
 |:------|------------:|----:|
 |VKTX   | 1673.2609308|    4|
-|ARDX   |  792.7272798|    5|
+|ARDX   |  790.4545006|    5|
 |FUSN   |  514.3884981|    2|
-|ADMA   |  482.9787308|    1|
+|ADMA   |  481.2056743|    1|
 |ALPN   |  466.4259689|    1|
 |CRIS   |  343.6974753|   15|
 |CABA   |  326.9129411|    6|
@@ -20,7 +20,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CAPR   |  186.6894084|    2|
 |BMEA   |  165.7718214|    1|
 |MIRM   |  162.0062725|    1|
-|IBRX   |  150.4934167|    4|
+|IBRX   |  150.0000000|    4|
 |ATNM   |  149.0848535|    3|
 |SRPT   |  148.4286498|    1|
 |KURA   |  147.3571369|    1|
@@ -30,7 +30,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRDL   |  107.5675667|    2|
 |ALDX   |  103.9999962|    2|
 |PLRX   |  103.5555522|    1|
-|CTMX   |  102.3094667|    1|
+|CTMX   |  102.8868361|    1|
 |ASND   |  101.9846861|    1|
 |MNKD   |  100.4576655|    1|
 |LEGN   |   97.4254436|    1|
@@ -170,7 +170,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GRTS   |    7.4860034|    8|
 |SGMO   |    7.4106669|    7|
 |XLO    |    7.3749997|    1|
-|FATE   |    6.9389849|    1|
+|FATE   |    6.9560764|    1|
 |PHIO   |    6.8308334|    4|
 |NCNA   |    6.7226891|    1|
 |GOSS   |    6.5428822|    1|
