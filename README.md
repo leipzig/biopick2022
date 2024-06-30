@@ -115,8 +115,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |INAB   |   19.2938503|    1|
 |IPA    |   18.8432829|    4|
 |MGTX   |   17.7337830|    2|
+|DARE   |   17.4899995|    2|
 |CELZ   |   17.4208137|    1|
-|DARE   |   16.7999998|    2|
 |ONCT   |   16.7400873|   15|
 |ACHL   |   16.2674643|    2|
 |IPSC   |   16.0781842|    1|
