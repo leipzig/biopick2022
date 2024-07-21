@@ -191,6 +191,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ASLN   |    1.3392858|    2|
 |ALZN   |    1.3052632|    1|
 |PTPI   |    1.2912913|    1|
+|GMDA   |    1.2874015|    7|
 |TCON   |    1.0848375|    6|
 |AFIB   |    0.9090909|    3|
 |TFFP   |    0.8523112|    2|
