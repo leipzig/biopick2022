@@ -100,6 +100,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ADAP   |   26.5626669|   15|
 |MRNA   |   25.8642427|    1|
 |QURE   |   25.8437811|    1|
+|NSCIF  |   25.7288880|    1|
 |CMMB   |   24.7826089|    1|
 |CNTB   |   23.8834951|    1|
 |HRTX   |   22.5629783|    1|
@@ -134,6 +135,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |IPSC   |   10.7187899|    1|
 |PSTV   |   10.4126983|    1|
 |UBX    |    9.9315069|    1|
+|PYNKF  |    9.9071205|    1|
 |SPRB   |    9.8654707|    1|
 |NKTR   |    9.6225013|    3|
 |KALA   |    9.5702479|    2|
@@ -184,17 +186,21 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SNPX   |    1.5699177|    1|
 |BNGO   |    1.3561873|    1|
 |PTPI   |    1.0555556|    1|
+|OPGN   |    1.0500000|    1|
 |TFFP   |    1.0417136|    2|
-|OPGN   |    1.0000000|    1|
 |ALZN   |    0.5929825|    1|
 |DRMA   |    0.4262452|    1|
 |TCON   |    0.3158845|    6|
 |TENX   |    0.2145433|    1|
 |AVTX   |    0.1985294|    1|
+|SRNE   |    0.1505376|    1|
 |ATNF   |    0.1329285|    2|
-|SRNE   |    0.1290323|    1|
+|ONPH   |    0.0740741|    1|
 |SEEL   |    0.0512270|    3|
 |APVO   |    0.0491221|    3|
+|ARDS   |    0.0429185|    1|
+|VBIV   |    0.0370370|    2|
 |XXII   |    0.0350728|    3|
 |NUWE   |    0.0315789|    1|
+|BTTX   |    0.0021505|    1|
 ![retvspicks](biopicks.png?raw=true)
