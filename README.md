@@ -149,7 +149,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |INAB   |    7.0615037|    1|
 |AGEN   |    6.8829967|    2|
 |BIVI   |    6.3555553|    1|
-|KZIA   |    6.1757717|    1|
+|KZIA   |    6.1757720|    1|
 |AFMD   |    6.0235507|   23|
 |XLO    |    5.9374999|    1|
 |PIRS   |    5.6011905|   11|
