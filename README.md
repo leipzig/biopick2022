@@ -184,7 +184,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OPGN   |    0.6000000|    1|
 |VCNX   |    0.5357143|    1|
 |ALZN   |    0.4105263|    1|
-|BNGO   |    0.4013378|    1|
+|BNGO   |    0.4063545|    1|
 |TENX   |    0.3930288|    1|
 |DRMA   |    0.2801724|    1|
 |AVTX   |    0.1540033|    1|
