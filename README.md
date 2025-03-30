@@ -80,6 +80,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MXCT   |   26.7909728|    1|
 |IKT    |   25.9637193|    2|
 |PSNL   |   25.3679031|    1|
+|SENS   |   25.3183513|    1|
 |VSTM   |   25.1626015|    4|
 |HRTX   |   24.7535593|    1|
 |CNTX   |   24.6240583|    1|
@@ -182,6 +183,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VINC   |    0.2644750|    1|
 |PTPI   |    0.2582583|    1|
 |AVTX   |    0.1727941|    1|
+|BNGO   |    0.1616499|    1|
 |ATNF   |    0.0695007|    2|
 |TCON   |    0.0581227|    6|
 |HEPA   |    0.0421053|    2|
