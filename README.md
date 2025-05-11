@@ -171,11 +171,11 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KZIA   |    0.8598575|    1|
 |GRTX   |    0.5010893|    1|
 |BTAI   |    0.4703640|    5|
-|CYCC   |    0.4284490|   11|
+|CYCC   |    0.4342759|   11|
 |TENX   |    0.3347356|    1|
 |VCNX   |    0.3113553|    1|
 |APTO   |    0.2716049|    8|
-|ALZN   |    0.2308772|    1|
+|ALZN   |    0.2309123|    1|
 |BNGO   |    0.2140468|    1|
 |DRMA   |    0.1939655|    1|
 |AVTX   |    0.0829248|    1|
