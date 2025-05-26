@@ -189,6 +189,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PTPI   |    0.0046847|    1|
 |ONPH   |    0.0024691|    1|
 |BTTX   |    0.0021505|    1|
-|APVO   |    0.0021464|    3|
+|APVO   |    0.0021495|    3|
 |XXII   |    0.0008770|    3|
 ![retvspicks](biopicks.png?raw=true)
