@@ -156,7 +156,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SPRB   |    1.9955157|    1|
 |FATE   |    1.9654760|    1|
 |BCAB   |    1.9561896|    1|
-|XAIR   |    1.8326271|    8|
+|XAIR   |    1.8283897|    8|
 |INAB   |    1.7388003|    1|
 |PAVM   |    1.6178861|    9|
 |BIVI   |    1.5866666|    1|
