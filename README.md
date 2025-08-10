@@ -117,7 +117,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BDSX   |    7.5803402|    1|
 |EVGN   |    7.3780492|    1|
 |CYCN   |    6.6598831|    7|
-|VERU   |    6.2818338|    1|
+|VERU   |    6.3276739|    1|
 |SGMO   |    6.1333334|    7|
 |PYNKF  |    5.8823528|    1|
 |GBIO   |    5.7909601|    1|
@@ -173,7 +173,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALZN   |    0.0916179|    1|
 |AFMD   |    0.0905797|   23|
 |CYCC   |    0.0626964|   11|
-|NCNA   |    0.0537815|    1|
+|NCNA   |    0.0541176|    1|
 |SRNE   |    0.0322581|    1|
 |VINC   |    0.0196271|    1|
 |OPGN   |    0.0195000|    1|
