@@ -114,7 +114,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GBIO   |    9.1101688|    1|
 |DARE   |    8.8333329|    2|
 |BDSX   |    8.5633273|    1|
-|BCTX   |    8.4541064|    3|
 |EVGN   |    7.9878047|    1|
 |SGMO   |    7.8666663|    7|
 |CYCN   |    7.2383718|    7|
@@ -160,6 +159,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BCLI   |    1.0833333|    2|
 |LPTX   |    0.9197531|   65|
 |LGVN   |    0.6628004|    1|
+|BCTX   |    0.5619163|    3|
 |UBX    |    0.5479452|    1|
 |GRTX   |    0.5010893|    1|
 |VCNX   |    0.4578755|    1|
