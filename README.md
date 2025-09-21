@@ -22,7 +22,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PHAR   |  166.4429621|    1|
 |VYGR   |  157.5645727|    2|
 |ASND   |  146.9411986|    1|
-|CLSD   |  136.7272724|    2|
 |MNKD   |  124.2562922|    1|
 |ALDX   |  123.2499957|    2|
 |NGENF  |  121.1267505|    2|
@@ -109,6 +108,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MCRB   |   10.4741898|    1|
 |MRNA   |    9.9377905|    1|
 |CMMB   |    9.6014495|    1|
+|CLSD   |    9.1151515|    2|
 |DARE   |    8.8333329|    2|
 |IMUX   |    8.8296767|    5|
 |GBIO   |    8.1214686|    1|
