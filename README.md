@@ -76,7 +76,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |NKTR   |   29.8791024|    3|
 |CMPS   |   29.0950213|    1|
 |LVTX   |   29.0909095|    4|
-|FBRX   |   28.9532706|    1|
 |CNTB   |   28.9320385|    1|
 |BMEA   |   28.8590624|    1|
 |AMRN   |   27.9525218|    1|
