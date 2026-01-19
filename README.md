@@ -116,7 +116,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |XFOR   |    5.3857354|    3|
 |SGMO   |    5.3333334|    7|
 |AGEN   |    5.2848756|    2|
-|NVNO   |    5.1896813|    1|
+|NVNO   |    5.1896812|    1|
 |BCTX   |    5.1811592|    3|
 |TLIS   |    4.7215295|    1|
 |ATHA   |    4.6815040|    2|
