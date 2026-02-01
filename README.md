@@ -125,7 +125,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BLRX   |    3.8112745|    1|
 |XLO    |    3.7187502|    1|
 |ATHA   |    3.6454335|    2|
-|KZR    |    3.6303829|    1|
 |ACET   |    2.8552029|    2|
 |ACXP   |    2.7366351|    1|
 |DNA    |    2.6985561|    2|
