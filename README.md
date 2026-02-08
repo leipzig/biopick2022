@@ -136,7 +136,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PSTV   |    1.6507936|    1|
 |SYBX   |    1.6391186|    2|
 |CANF   |    1.6124030|    2|
-|CLSD   |    1.5757575|    2|
 |INAB   |    1.5110099|    1|
 |KZIA   |    1.3752969|    1|
 |ATRA   |    1.2385787|    1|
