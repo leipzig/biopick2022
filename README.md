@@ -131,6 +131,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |FATE   |    2.1363870|    1|
 |FGEN   |    2.1276596|    1|
 |CTXR   |    1.9870129|    1|
+|CLSD   |    1.8176970|    2|
 |PSTV   |    1.7777778|    1|
 |CANF   |    1.7558140|    2|
 |SYBX   |    1.7134986|    2|
