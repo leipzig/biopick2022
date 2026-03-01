@@ -138,7 +138,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ATRA   |    1.3756345|    1|
 |INAB   |    1.2908125|    1|
 |BCAB   |    1.2582782|    1|
-|CLSD   |    1.2363636|    2|
 |CRIS   |    1.1974790|   15|
 |BCLI   |    1.1666666|    2|
 |PHIO   |    1.0555555|    4|
@@ -147,7 +146,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PAVM   |    0.9105691|    9|
 |TENX   |    0.7211538|    1|
 |KALA   |    0.6280992|    2|
-|PPBT   |    0.5681234|    1|
+|PPBT   |    0.5686375|    1|
 |GTBP   |    0.5224044|    1|
 |BTAI   |    0.5134038|    5|
 |XAIR   |    0.5090042|    8|
