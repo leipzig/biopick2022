@@ -123,7 +123,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GOSS   |    3.8638372|    1|
 |CLGN   |    3.5757944|    1|
 |BLRX   |    3.2720590|    1|
-|XLO    |    3.1874999|    1|
+|XLO    |    3.1881249|    1|
 |ACET   |    2.5764723|    2|
 |CTXR   |    2.4987013|    1|
 |DNA    |    2.0457281|    2|
@@ -134,7 +134,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PSTV   |    1.5873016|    1|
 |INAB   |    1.4350797|    1|
 |CANF   |    1.3953488|    2|
-|CLSD   |    1.3333334|    2|
 |BCLI   |    1.2500000|    2|
 |PHIO   |    1.0833333|    4|
 |VTGN   |    1.0427351|    2|
