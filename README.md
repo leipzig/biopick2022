@@ -13,6 +13,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |DRUG   |  451.8612052|    1|
 |AXSM   |  415.3520467|    4|
 |XERS   |  185.6655267|   12|
+|NGENF  |  183.8028052|    2|
 |PHAR   |  171.8120848|    1|
 |FENC   |  166.3636367|    2|
 |ASND   |  164.9297606|    1|
@@ -131,6 +132,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PSTV   |    1.5873016|    1|
 |INAB   |    1.5186029|    1|
 |BCLI   |    1.4000000|    2|
+|CLSD   |    1.3685333|    2|
 |ONPH   |    1.3333333|    1|
 |ATRA   |    1.2461929|    1|
 |CANF   |    1.2286822|    2|
