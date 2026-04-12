@@ -139,7 +139,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GRTX   |    0.9150326|    1|
 |TENX   |    0.8668870|    1|
 |PAVM   |    0.8346883|    9|
-|CLSD   |    0.6303030|    2|
 |PPBT   |    0.5308483|    1|
 |CRIS   |    0.5252101|   15|
 |VCNX   |    0.4578755|    1|
