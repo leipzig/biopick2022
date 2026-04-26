@@ -94,7 +94,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BDSX   |   10.0567108|    1|
 |ANVS   |    9.8976110|    3|
 |NSCIF  |    9.4044447|    1|
-|IMUX   |    9.1954025|    5|
+|IMUX   |    9.1964471|    5|
 |PLRX   |    9.1851853|    1|
 |KPTI   |    8.9787456|    5|
 |DARE   |    8.7916662|    2|
