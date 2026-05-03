@@ -137,6 +137,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PHIO   |    1.0555555|    4|
 |PAVM   |    0.7705510|    9|
 |TENX   |    0.7680288|    1|
+|CLSD   |    0.7515152|    2|
 |LGVN   |    0.7050539|    1|
 |CRIS   |    0.6197479|   15|
 |PPBT   |    0.5398457|    1|
