@@ -133,6 +133,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BCLI   |    1.2500000|    2|
 |VTGN   |    1.0769231|    2|
 |PHIO   |    1.0277778|    4|
+|CLSD   |    0.7761212|    2|
 |TENX   |    0.7133413|    1|
 |LGVN   |    0.6396023|    1|
 |CRIS   |    0.5987395|   15|
