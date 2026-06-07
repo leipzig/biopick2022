@@ -133,7 +133,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |INAB   |    1.1009872|    1|
 |PHIO   |    0.9814814|    4|
 |VTGN   |    0.9230770|    2|
-|CLSD   |    0.7515152|    2|
 |TENX   |    0.6448317|    1|
 |LGVN   |    0.6048053|    1|
 |CRIS   |    0.4936975|   15|
