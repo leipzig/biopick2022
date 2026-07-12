@@ -103,11 +103,11 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CMMB   |    6.3043478|    1|
 |AGEN   |    5.3006986|    2|
 |FATE   |    5.2982396|    1|
-|CRIS   |    5.2100842|   15|
 |NVNO   |    4.9252113|    1|
 |BCTX   |    4.7584540|    3|
 |VERU   |    4.7198640|    1|
 |HRTX   |    4.4906899|    1|
+|XAIR   |    4.3644066|    8|
 |CELZ   |    4.1271493|    1|
 |XLO    |    4.0625002|    1|
 |BLRX   |    3.7867647|    1|
@@ -120,7 +120,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ATRA   |    2.4771574|    1|
 |CLGN   |    2.2493887|    1|
 |SYBX   |    1.9586778|    2|
-|GRTX   |    1.9172113|    1|
+|GRTX   |    1.9172114|    1|
 |BCLI   |    1.8000001|    2|
 |ACXP   |    1.7357094|    1|
 |ONPH   |    1.6913579|    1|
@@ -139,8 +139,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VTGN   |    0.4444444|    2|
 |AVTX   |    0.3923611|    1|
 |BCAB   |    0.3892002|    1|
+|CRIS   |    0.2605042|   15|
 |BTAI   |    0.2514757|    5|
-|XAIR   |    0.2208686|    8|
 |PPBT   |    0.1998715|    1|
 |SPRB   |    0.1995815|    1|
 |GLMD   |    0.1709402|    1|
