@@ -113,7 +113,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BLRX   |    3.5539218|    1|
 |MCRB   |    3.1992795|    1|
 |KZIA   |    3.1686461|    1|
-|XAIR   |    2.9555084|    8|
 |ACET   |    2.9016581|    2|
 |MODD   |    2.6774483|    1|
 |DNA    |    2.3796631|    2|
@@ -144,6 +143,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PPBT   |    0.1889460|    1|
 |SPRB   |    0.1735526|    1|
 |GLMD   |    0.1666667|    1|
+|XAIR   |    0.1477754|    8|
 |BNGO   |    0.0641026|    1|
 |ALZN   |    0.0471735|    1|
 |DRMA   |    0.0318487|    1|
