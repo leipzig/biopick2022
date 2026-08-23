@@ -92,6 +92,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYCN   |   11.3081393|    7|
 |QSI    |   10.6099109|    1|
 |ANVS   |   10.3526738|    3|
+|NSCIF  |    9.5377776|    1|
 |PLRX   |    8.5555553|    1|
 |CMMB   |    7.8260872|    1|
 |BCYC   |    7.1792344|    1|
@@ -124,6 +125,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GOSS   |    1.3704686|    1|
 |GLMD   |    1.3141025|    1|
 |CANF   |    1.2906976|    2|
+|ONPH   |    1.2592592|    1|
 |PHIO   |    1.0925925|    4|
 |INAB   |    0.9719058|    1|
 |LGVN   |    0.7000829|    1|
@@ -144,9 +146,13 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALZN   |    0.0608187|    1|
 |DRMA   |    0.0340038|    1|
 |KALA   |    0.0271074|    2|
+|SRNE   |    0.0172043|    1|
 |NCNA   |    0.0127731|    1|
 |HEPA   |    0.0065789|    2|
 |VINC   |    0.0063788|    1|
+|ARDS   |    0.0042918|    1|
+|AFIB   |    0.0029326|    3|
+|BTTX   |    0.0021505|    1|
 |PTPI   |    0.0004805|    1|
 |APVO   |    0.0000581|    3|
 |NUWE   |    0.0000198|    1|
