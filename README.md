@@ -132,7 +132,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VTGN   |    0.4102564|    2|
 |AVTX   |    0.3927696|    1|
 |VCNX   |    0.3434066|    1|
-|GTBP   |    0.2633880|    1|
 |SPRB   |    0.2309118|    1|
 |PPBT   |    0.2249357|    1|
 |GLMD   |    0.1480464|    1|
