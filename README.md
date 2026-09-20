@@ -142,11 +142,11 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALZN   |    0.0736842|    1|
 |CRIS   |    0.0525210|   15|
 |DRMA   |    0.0277778|    1|
-|BTAI   |    0.0178308|    5|
 |KALA   |    0.0178182|    2|
 |NCNA   |    0.0112605|    1|
 |VINC   |    0.0073602|    1|
 |HEPA   |    0.0067544|    2|
+|SRNE   |    0.0064516|    1|
 |ARDS   |    0.0042918|    1|
 |AFIB   |    0.0029326|    3|
 |BTTX   |    0.0021505|    1|
