@@ -144,7 +144,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |NCNA   |    0.0078403|    1|
 |VINC   |    0.0073602|    1|
 |SRNE   |    0.0064516|    1|
-|KALA   |    0.0045950|    2|
 |ARDS   |    0.0042918|    1|
 |AFIB   |    0.0029326|    3|
 |BTTX   |    0.0021505|    1|
